@@ -38,5 +38,19 @@
 #### Screenshot 3. End of turn and ENTER to continue.
 ![](imgs/console_endturn.jpg)
 
+
+#### Screenshot 4. Bot randomly choices to purchase the shop on entering.
+![](imgs/bot_purchases.jpg)
+
+
+#### Screenshot 5. Player enters the empty cell.
+![](imgs/empty.jpg)
+
+
+#### Screenshot 6. Player enters the Shop Cell. Games asks him about his willing to choose. On "yes" he get the worth and pays the money for it!
+![](imgs/purchase_yes.jpg)
+
+
+#### That's just a small part of game features. For more download the open-source repo and enjoy the game :)
 ---
-## [Контакты.](https://vk.com/k_tigran)
+## [Contacts.](https://vk.com/k_tigran)
